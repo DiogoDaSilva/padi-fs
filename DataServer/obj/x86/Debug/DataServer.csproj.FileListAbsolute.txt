@@ -1,0 +1,7 @@
+c:\users\nuno\documents\visual studio 2010\Projects\PADI-FS\DataServer\bin\Debug\DataServer.exe
+c:\users\nuno\documents\visual studio 2010\Projects\PADI-FS\DataServer\bin\Debug\DataServer.pdb
+c:\users\nuno\documents\visual studio 2010\Projects\PADI-FS\DataServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nuno\documents\visual studio 2010\Projects\PADI-FS\DataServer\obj\x86\Debug\DataServer.exe
+c:\users\nuno\documents\visual studio 2010\Projects\PADI-FS\DataServer\obj\x86\Debug\DataServer.pdb
+C:\Users\Diogo o da Silva\Desktop\PADI-FS\DataServer\obj\x86\Debug\DataServer.exe
+C:\Users\Diogo o da Silva\Desktop\PADI-FS\DataServer\obj\x86\Debug\DataServer.pdb
