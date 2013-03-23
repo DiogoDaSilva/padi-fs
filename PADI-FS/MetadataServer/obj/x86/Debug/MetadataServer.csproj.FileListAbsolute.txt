@@ -1,0 +1,7 @@
+c:\users\nuno\documents\visual studio 2010\Projects\PADI-FS\MetadataServer\bin\Debug\MetadataServer.exe
+c:\users\nuno\documents\visual studio 2010\Projects\PADI-FS\MetadataServer\bin\Debug\MetadataServer.pdb
+c:\users\nuno\documents\visual studio 2010\Projects\PADI-FS\MetadataServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nuno\documents\visual studio 2010\Projects\PADI-FS\MetadataServer\obj\x86\Debug\MetadataServer.exe
+c:\users\nuno\documents\visual studio 2010\Projects\PADI-FS\MetadataServer\obj\x86\Debug\MetadataServer.pdb
+C:\Users\Diogo o da Silva\Desktop\PADI-FS\MetadataServer\obj\x86\Debug\MetadataServer.exe
+C:\Users\Diogo o da Silva\Desktop\PADI-FS\MetadataServer\obj\x86\Debug\MetadataServer.pdb
